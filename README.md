@@ -12,5 +12,3 @@ M.S. in Computer Science, Colorado School of Mines.
 - Smaller utilities and experiments
 
 **Tools:** Python, JavaScript/TypeScript, React
-
-[tcoates.dev](https://tcoates.dev)
