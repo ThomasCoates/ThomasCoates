@@ -1,16 +1,16 @@
-## Hi there 👋
+### Thomas Coates
 
-<!--
-**ThomasCoates/ThomasCoates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and Marine Corps veteran in the Florida Keys. I build
+automation tools and small SaaS for businesses without their own dev team.
 
-Here are some ideas to get you started:
+M.S. in Computer Science, Colorado School of Mines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working on**
+- HailHawk — hail detection that matches NOAA storm data against roofing
+  customer records to flag likely damage
+- Automation and integration work for small businesses
+- Smaller utilities and experiments
+
+**Tools:** Python, JavaScript/TypeScript, React
+
+[tcoates.dev](https://tcoates.dev)
